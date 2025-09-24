@@ -1,7 +1,7 @@
 # SwarmNavigator
 
 **Decentralized Multi-Agent Coverage & Obstacle Avoidance in 2D Gridworlds (Reinforcement Learning Framework)**  
-*Ayushman Mishra (`frMishR`)* 
+*Ayushman Mishra (`agnizero`)* 
 
 ---
 
@@ -116,7 +116,8 @@ SwarmNavigator/
 **Ayushman Mishra**  
 Robotics & Reinforcement Learning Engineer  
 Arizona State University  
-[GitHub: frMishR](https://github.com/frMishR)  
+[Linkedin: Ayushman Mishra](https://linkedin.com/in/agnizero)  
+[GitHub: agnizero](https://github.com/agnizero)  
 Email (University): [amish141@asu.edu]  
 Email (Personal): [4yxmi0@gmail.com]
 
